@@ -1,2 +1,4 @@
-# stella
- Astro Type Classification
+# Astro
+
+Astro Type Classification
+
